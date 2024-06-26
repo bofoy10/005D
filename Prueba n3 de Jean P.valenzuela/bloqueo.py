@@ -1,0 +1,1 @@
+print("Sorry profe, durante el examen sufri un bloqueo mental, pero no pasa nada, me hago responsable xd")
